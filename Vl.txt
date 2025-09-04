@@ -1,1 +1,1 @@
-vless://3bd65350-2a24-4c60-a648-c2e385d753e7@xyzip.soon.it:80?mux=OFF&path=%2F%3Fed%3D1500&security=none&encryption=none&host=vlovblfuesshell.ai88.workers.dev&type=ws&muxConcurrency=-1#Iman80-worker
+vless:
